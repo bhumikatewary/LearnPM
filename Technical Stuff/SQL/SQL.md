@@ -5,8 +5,11 @@ SQL (Structured Query Language) is a computer language for storing, manipulating
 A database is a tool that helps us store and manage data. There are two main types of databases: relational and non-relational. 
 SQL is the language used to interact with databases in RDBMS. RDBMS stands for Relational Database Management System. Non-relational databases, also known as NoSQL databases, do not use the table-based structure.
 
-<img src="">
+<hr>
+<img src="img/DBs-table1.jpg" width="350px" height="200px">
+<hr>
 
 <h4>SQL Syntax</h4>
 SQL is followed by a unique set of rules and guidelines called Syntax. This tutorial gives you a quick start with SQL by listing all the basic SQL Syntax.
 Some syntax of of SQL are SELECT, FROM, WHERE, etc.
+
