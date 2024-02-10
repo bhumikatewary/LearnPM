@@ -1,10 +1,10 @@
-What is a Cohort? <br>
+**What is a Cohort?** <br>
 A cohort is simply a group of people with shared characteristics.
 
-What is Cohort Analysis? <br>
+**What is Cohort Analysis?** <br>
 Breaking down data from a dataset into related groups for analysis over a specific period of time.
 
-Why is Cohort Analysis important in Product Management? <br>
+**Why is Cohort Analysis important in Product Management?** <br>
 By performing cohort analysis, you can then track the performance of each cohort as a product manager over time, 
 looking at metrics such as:
 
